@@ -2,7 +2,8 @@
 
 ## Overview
 
-Welcome to **ShareVault**! 🎉 A dynamic and **secure** web application crafted with love using Python and Django. ShareVault is designed to make file sharing and management a breeze. Whether you want to upload, view, or download files, or interact with other users, we've got you covered!
+Welcome to **ShareVault**! 🎉 
+A dynamic and **secure** web application crafted with love using Python and Django. ShareVault is designed to make file sharing and management a breeze. Whether you want to upload, view, or download files, or interact with other users, we've got you covered!
 
 ## Features
 
